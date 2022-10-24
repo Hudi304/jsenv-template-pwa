@@ -1,0 +1,9 @@
+{
+  "search.exclude": {
+    "/.jsenv/**": true,
+    "/dist/**": true,
+    "package-lock.json": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": ["javascript", "html"]
+}
